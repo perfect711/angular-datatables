@@ -29,7 +29,6 @@
     "node_modules",
     "src",
     ".travis.yml",
-    "vendor",
     "data.json",
     "data1.json",
     "demo",
